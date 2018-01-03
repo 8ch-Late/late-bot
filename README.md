@@ -3,10 +3,10 @@
 This is a multi-purpse bot for discord. As of the first stable commit it is mainly a music bot.
 # Dependencies
 
-# Node.js
+Node.js
 
-# npm
+npm
 
-# discord.js
+discord.js
 
-# ffmpeg-binaries
+ffmpeg-binaries
