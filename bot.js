@@ -4,7 +4,7 @@ const bot = new Discord.Client();
 const prefix = "!";
 var dispatcher;
 
-bot.login("Mzk3MDIwNDA4MjE5Njk3MTUz.DS4ucA.w1n_WrAL6djYL6d2H4GZrL6eaZQ");
+bot.login("YOUR_TOKEN_HERE");
 
 const title =('Unknown Track');
 const artist =('/Late/ Radio'); 
